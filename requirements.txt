@@ -1,0 +1,4 @@
+Django==1.4
+CPython==2.7
+urllib2==2.7.15
+tiddlyweb==1.2.17
